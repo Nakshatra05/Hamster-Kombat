@@ -35,5 +35,5 @@ To get started with it, follow these instructions:
 
 ## Contact
 
-For any inquiries, please contact me on LinkedIn : https://www.linkedin.com/in/nakshatra-goel/
+For any inquiries, feel free to contact me on LinkedIn : https://www.linkedin.com/in/nakshatra-goel/
 
