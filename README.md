@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a clone of the popular Telegram mini app, Hamster Kombat. The repository provides two branches:
+This project is a clone of the popular Telegram mini app, Hamster Kombat. 
 
 ## Getting Started
 
